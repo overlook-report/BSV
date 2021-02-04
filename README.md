@@ -1,4 +1,4 @@
-# Bitcoin SV 档案馆索引 2021
+# Bitcoin SV 档案馆
 
 ### I 强相关公司（现存）
 
@@ -36,6 +36,8 @@ Future Farm Developments
 
 Calvin Ayre
 
+Craig S Wright
+
 Ian Grigg
 
 Jimmy Nguyen
@@ -50,3 +52,28 @@ Stefan Matthews
 
 Uyen T Nguyen
 
+### V 郁金香信托
+
+信托文件
+
+比特币地址
+
+### VI 链上数据-挖矿
+
+BCH时期
+
+BSV时期
+
+### VII 链上数据-交易
+
+比特大陆持仓
+
+BSV各矿池产出流向
+
+1000BTC批量转账的影响
+
+### VIII 链上数据-中本聪
+
+中本聪挖矿
+
+中本聪交易
